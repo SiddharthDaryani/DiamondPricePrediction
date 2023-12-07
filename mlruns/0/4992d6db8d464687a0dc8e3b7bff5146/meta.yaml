@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/fsdsmendtoend/mlruns/0/4992d6db8d464687a0dc8e3b7bff5146/artifacts
+end_time: 1701962679099
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4992d6db8d464687a0dc8e3b7bff5146
+run_name: classy-snipe-10
+run_uuid: 4992d6db8d464687a0dc8e3b7bff5146
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701962674496
+status: 3
+tags: []
+user_id: siddh

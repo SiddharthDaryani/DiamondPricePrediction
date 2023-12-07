@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/fsdsmendtoend/mlruns/0/ab1bb56a20194037a2c891f7a3cb9739/artifacts
+end_time: 1701962481053
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab1bb56a20194037a2c891f7a3cb9739
+run_name: indecisive-asp-708
+run_uuid: ab1bb56a20194037a2c891f7a3cb9739
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701962472858
+status: 3
+tags: []
+user_id: siddh

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/fsdsmendtoend/mlruns/0/7221d95846734d78989e1a04985e540a/artifacts
+end_time: 1701962552645
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7221d95846734d78989e1a04985e540a
+run_name: charming-elk-59
+run_uuid: 7221d95846734d78989e1a04985e540a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701962548036
+status: 3
+tags: []
+user_id: siddh

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/fsdsmendtoend/mlruns/0/be088366a6944d998c6a7d72e344a705/artifacts
+end_time: 1701962770539
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be088366a6944d998c6a7d72e344a705
+run_name: suave-gull-419
+run_uuid: be088366a6944d998c6a7d72e344a705
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701962765913
+status: 3
+tags: []
+user_id: siddh
